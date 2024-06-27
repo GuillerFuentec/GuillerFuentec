@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Guille.</h1>
-<h3 align="center">I'm a C# .NET developer.</h3>
+<h1 align="center">Hey there 👋, I'm Guille.</h1>
+<h3 align="center">I'm a React developer.</h3>
 
-- 🔭 I’m currently working on [mi personal porfolio](guillermocopello.com)
+- 🔭 I’m currently working on [CANADTED.COM](CANADTED.COM)
 
-- 🌱 I’m currently learning **Java Script, ReactJs**
+- 🌱 I’m currently learning **Backend develoment and music Production**
 
 - 👨‍💻 All of my projects are available at [guillermocopello.com](guillermocopello.com)
 
-- 📝 I regularly write articles on [guillermocopello.com](guillermocopello.com)
+- 📝 I regularly write articles on [guillermocopello.blogspot.com](guillermocopello.blogspot.com)
 
-- 💬 Ask me about **ASP.NET, scripts for Unity3D engine, HTML, CSS**
+- 💬 Ask me about **React web Dev and scripts for Unity3D engine**
 
 - 📫 How to reach me **2xss@protonmail.com**
 
