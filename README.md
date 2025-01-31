@@ -1,19 +1,19 @@
 <h1 align="center">Hey there 👋, I'm Guille.</h1>
 <h3 align="center">I'm a React developer.</h3>
 
-- 🔭 I’m currently working on [CANADTED.COM](CANADTED.COM)
+- 🔭 I’m currently working on upwork and similar platforms as freelancer
 
-- 🌱 I’m currently learning **Backend develoment and music Production**
+- 🌱 I’m currently learning **Backend develoment**
 
 - 👨‍💻 All of my projects are available at [guillermocopello.com](guillermocopello.com)
 
 - 📝 I regularly write articles on [guillermocopello.blogspot.com](guillermocopello.blogspot.com)
 
-- 💬 Ask me about **React web Dev and scripts for Unity3D engine**
+- 💬 Ask me about **React web Dev**
 
-- 📫 How to reach me **2xss@protonmail.com**
+- 📫 How to reach me **copelloguillermo@gmail.com**
 
-- 📄 Know about my experiences [guillermocopello.com](guillermocopello.com)
+- 📄 Know about my experiences [guillermocopello.com](guillermocopello.com/works)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
