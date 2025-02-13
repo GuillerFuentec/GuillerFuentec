@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Guille.</h1>
+<h1 align="center">Hey there 👋, I'm Guillermo Copello.</h1>
 <h3 align="center">I'm a React developer.</h3>
 
 - 🔭 I’m currently working on upwork and similar platforms as freelancer
