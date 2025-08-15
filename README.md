@@ -80,9 +80,9 @@ Currently freelancing (Upwork & similar). Learning/ building backends with **Nod
 <summary>📊 GitHub Stats (opcional)</summary>
 
 <!-- Cambia "guillermocopello" si tu usuario es distinto -->
-<img src="https://github-readme-stats.vercel.app/api?username=guillermocopello&show_icons=true&theme=transparent" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=GuillerFuentec&show_icons=true&theme=transparent" alt="GitHub stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guillermocopello&theme=transparent" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillerFuentec&theme=transparent" alt="GitHub streak" />
 </details>
 
 ---
