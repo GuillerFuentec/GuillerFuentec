@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.guillermocopello.com">Website</a> ·
-  <a href="https://www.guillermocopello.com/works">Portfolio</a> ·
+  <a href="https://www.guillermocopello.com/projects">Portfolio</a> ·
   <a href="https://www.guillermocopello.com/blog">Blog</a> ·
   <a href="mailto:guillermocopello@raccoonstudiosllc.com">Email</a>
 </p>
@@ -19,7 +19,7 @@
 - E-commerce: **Stripe**, integraciones con **Shopify** y **TikTok Shop**.
 - Escribo de lo que voy aprendiendo en mi blog.
 
-> 👀 Mira mis proyectos: **[guillermocopello.com/works](https://www.guillermocopello.com/works)**  
+> 👀 Mira mis proyectos: **[guillermocopello.com/works](https://www.guillermocopello.com/projects)**  
 > ✍️ Artículos: **[guillermocopello.com/blog](https://www.guillermocopello.com/blog)**
 
 ---
@@ -49,7 +49,7 @@
 ---
 
 ### 📄 Links rápidos
-- Portfolio: **https://www.guillermocopello.com/works**
+- Portfolio: **https://www.guillermocopello.com/projects**
 - Sobre mí: **https://www.guillermocopello.com/about**
 
 ---
@@ -67,7 +67,7 @@
 **React/Next.js developer** focused on UI/UX, performance, and developer experience.  
 Currently freelancing (Upwork & similar). Learning/ building backends with **Node.js + Strapi v5**, **REST/GraphQL**, and **PostgreSQL**. Practical DevOps (Vercel, Railway, Docker, Cloudflare) and media pipelines on **Azure Blob**. E-commerce with **Stripe**, **Shopify**, and **TikTok Shop**.
 
-- Portfolio: **https://www.guillermocopello.com/works**  
+- Portfolio: **https://www.guillermocopello.com/projects**  
 - Blog: **https://www.guillermocopello.com/blog**  
 - Email: **guillermocopello@raccoonstudiosllc.com**
 
