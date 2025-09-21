@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.guillermocopello.com">Website</a> ·
   <a href="https://www.guillermocopello.com/projects">Portfolio</a> ·
-  <a href="https://www.guillermocopello.com/blog">Blog</a> ·
+  <a href="https://www.guillermocopello.com/articles">Articles</a> ·
   <a href="mailto:guillermocopello@raccoonstudiosllc.com">Email</a>
 </p>
 
